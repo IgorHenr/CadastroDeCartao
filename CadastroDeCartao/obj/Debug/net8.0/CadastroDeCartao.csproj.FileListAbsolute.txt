@@ -1,0 +1,14 @@
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\bin\Debug\net8.0\CadastroDeCartao.exe
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\bin\Debug\net8.0\CadastroDeCartao.deps.json
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\bin\Debug\net8.0\CadastroDeCartao.runtimeconfig.json
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\bin\Debug\net8.0\CadastroDeCartao.dll
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\bin\Debug\net8.0\CadastroDeCartao.pdb
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\obj\Debug\net8.0\CadastroDeCartao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\obj\Debug\net8.0\CadastroDeCartao.AssemblyInfoInputs.cache
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\obj\Debug\net8.0\CadastroDeCartao.AssemblyInfo.cs
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\obj\Debug\net8.0\CadastroDeCartao.csproj.CoreCompileInputs.cache
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\obj\Debug\net8.0\CadastroDeCartao.dll
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\obj\Debug\net8.0\refint\CadastroDeCartao.dll
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\obj\Debug\net8.0\CadastroDeCartao.pdb
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\obj\Debug\net8.0\CadastroDeCartao.genruntimeconfig.cache
+C:\Users\monal\source\repos\CadastroDeCartao\CadastroDeCartao\obj\Debug\net8.0\ref\CadastroDeCartao.dll
